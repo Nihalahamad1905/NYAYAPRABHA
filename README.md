@@ -1,5 +1,7 @@
   <h1>Nyayaprabha: Your Voice, Your Right, Your Justice</h1>
 
+   <img src="https://drive.google.com/file/d/1hQMEcfXLXHxfnACihQhJvuCXKHNXS561/view?usp=sharing" alt="Nyayaprabha Logo" style="max-width: 100%; height: auto;">
+
   <p>Nyayaprabha is a beacon of hope for women seeking a safe and accessible platform to voice their concerns and fight for justice. It's not just a website; it's a movement empowered by technology and empathy.</p>
 
   <h2>Empowering Women, One Complaint at a Time</h2>
