@@ -1,6 +1,6 @@
   <h1>Nyayaprabha: Your Voice, Your Right, Your Justice</h1>
 
-   <img src="./banner.png" alt="Nyayaprabha Logo" style="max-width: 100%; height: auto;">
+   ![women safety banner_11zon](https://github.com/Nihalahamad1905/Nyayaprabha/assets/118530992/3ef4917e-fba9-4764-8d0c-a6ccb7fbd8ae)
 
   <p>Nyayaprabha is a beacon of hope for women seeking a safe and accessible platform to voice their concerns and fight for justice. It's not just a website; it's a movement empowered by technology and empathy.</p>
 
