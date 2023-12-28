@@ -1,4 +1,4 @@
-  <h1>Nyayaprabha: Your Voice, Your Right, Your Justice</h1>
+<h1>Nyayaprabha: Your Voice, Your Right, Your Justice</h1>
 
    ![women safety banner_11zon](https://github.com/Nihalahamad1905/Nyayaprabha/assets/118530992/3ef4917e-fba9-4764-8d0c-a6ccb7fbd8ae)
 
