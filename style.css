@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+*{
+	font-family: 'Nunito', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.first{
+	background-image: url("https://images.herzindagi.info/image/2023/Mar/womens-day-2023-facts-lesser-known.jpg");
+	min-height: 100vh;
+	height: auto;
+	width: auto;
+	background-position: center;
+	background-size: cover;
+}
+
+.container{
+	position: relative;
+	padding: 0 100px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	min-height: 100vh;
+	
+}
+
+.container header{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 100px;
+	background-color: #22092C;
+	
+}
+.container header .logo{
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #F4EAE0;
+	font-size: 1.5em;
+	text-decoration: none;
+}
+.container header ul{
+	position: relative;
+	display: flex;
+
+}
+.container ul li{
+	list-style: none;
+	margin: 0 15px;
+	text-decoration: none;
+}
+.container ul li a{
+	position: relative;
+	text-decoration: none;
+	font-size: 18px;
+	padding: 4px 10px;
+	color: #F4EAE0;
+	border: red;
+}
+.container header ul li a:hover,
+.container header ul li a.active
+{
+	color: #F4EAE0;
+}
+.container .content{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.container .content .bannerText{
+	position: relative;
+	max-width: 900px;
+}
+.container .content .bannerText div{
+	transition: 0.5s ease-in-out;
+	display: none;
+}
+.container .content .bannerText div.active{
+	display: initial;
+} 
+.container .content .bannerText div h2{
+	color: #192655;
+	margin-top: 10PX;
+	font-family: Bookman Old Style;
+	font-size: 6em;
+	line-height: 1em;
+	font-weight: 1000;
+}
+
+
+/*Air*/
+.air
+{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	padding-top: 50px;
+}
+.air h1
+{
+	font-size: 38px;
+	font-weight: 600;
+}
+.air p
+{
+	color: #777;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 22px;
+	padding: 10px;
+}
+.totalair
+{
+	margin-top: 5%;
+	display: flex;
+	justify-content: space-between;
+}
+.prosair
+{
+	background:#fff3f3;
+	border-radius: 10px;
+	flex-basis: 31%;
+	margin-top: 2.5;
+	margin-bottom: 5%;
+	padding: 20px 12px;
+	box-sizing: border-box;
+	transition: 0.5s;
+}
+.prosair:hover
+{
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+}
+
+/*Water*/
+.water
+{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	padding-top: 50px;
+}
+.water h1
+{
+	font-size: 38px;
+	font-weight: 600;
+}
+.water p
+{
+	color: #777;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 22px;
+	padding: 10px;
+}
+.totalwater
+{
+	margin-top: 5%;
+	display: flex;
+	justify-content: space-between;
+}
+.proswater
+{
+	background:#fff3f3;
+	border-radius:10px;
+	flex-basis: 31%;
+	margin-bottom: 5%;
+	padding: 10px 12px;
+	box-sizing: border-box;
+	transition: 0.5s;
+}
+.proswater:hover
+{
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+}
+
+
+/*Footer*/
+.footer
+{
+	width: 100%;
+	text-align: center;
+	padding: 30px 0;
+}
+.footer h4
+{
+	margin-bottom: 25px;
+	margin-top: 20px;
+	font-weight: 600;
+}
+
+/*Background Formatting*/
+.second
+{
+	background: #352634;
+	height: auto;
+	width: auto;
+	background-position: center;
+	background-size: cover;
+}
+.second h1
+{
+	color: #fff;
+}
+.second .desca
+{
+	color: white;
+}
+.third
+{
+	background: #1b2736;
+	height: auto;
+	width: auto;
+	background-position: center;
+	background-size: cover;
+}
+.third h1
+{
+	color: #fff;
+}
+.third .descw
+{
+	color: #fff;
+}
+.fourth
+{
+	background-image: url("land.jpg");
+	height: auto;
+	width: auto;
+	background-position: center;
+	background-size: cover;
+}
+.fourth h1
+{
+	color: #fff;
+}
+.fourth .desc
+{
+	color: #fff;
+}
+.footer
+{
+	background: #1A120B;
+}
+.footer h4
+{
+	color: #fff;
+}
+.footer p
+{
+	color: #fff;
+}
+
+/*Read More Button*/
+.readmore
+{
+	background: #DADDB1;
+	border-radius: 6px;
+	flex-basis: 0%;
+	margin-bottom: 5%;
+	padding: 10px 15px;
+	box-sizing: border-box;
+	transition: 0.5s;
+	text-decoration: none;
+	color: #111;
+	font-size: 20px;
+	text-decoration: bold;
+	font-weight: 400px;
+}
+.readmore:hover
+{
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+}
+
