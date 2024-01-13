@@ -64,3 +64,9 @@
     <li><strong>Username:</strong> admin</li>
     <li><strong>Password:</strong> admin</li>
   </ul>
+  
+<h2>Contributors </h2>
+
+We would like to thank the following contributors for their valuable contributions to this project:
+
+- [Contributor 1] (link-to-contributor-1-github-profile)
